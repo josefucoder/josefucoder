@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [personal website for lawyer](https://www.rianiyasociados.com/)
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **josefucoder@gmail.com**
 
